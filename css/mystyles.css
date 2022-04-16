@@ -1,0 +1,56 @@
+/*--Sawyer Porter 4/14 */ 
+.underline {
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    font-weight: 200;
+}
+
+
+.listheader {
+    color: rgb(31, 134, 168);
+}
+
+.resumefontsize {
+    font-size: 16px;
+}
+
+.resumetitle {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 35px;
+   font-weight: 200;
+
+}
+
+.resumecenter {
+    text-align: center;
+}
+
+.backtotop {
+    color: rgb(31, 134, 168);
+    font-size: smaller;
+    text-decoration: underline;
+    text-align: justify;
+   
+}
+
+.aboutmeheading {
+    font-family: 'Times New Roman', Times, serif;
+   font-size: 100px;
+}
+
+.aboutmesub {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    font-weight: 200;
+}
+
+.homeheaders {
+    font-weight: 300;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.onpageanchor {
+    text-decoration: underline;
+}

@@ -1,0 +1,38 @@
+.mapdescriptions {
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.subheaders {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: cornflowerblue;
+    text-align: right;
+}
+
+.footer {
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: center;
+}
+
+.header {
+    text-align: center;
+    font-weight: 300;
+    font-size: 40px;
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+
+
+}
+
+.body {
+    font-size: 35px;
+    font-family:'Courier New', Courier, monospace
+    
+}
+
+.footer {
+
+}
